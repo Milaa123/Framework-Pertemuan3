@@ -28,5 +28,7 @@ class magister extends mahasiswa
  { 
  print "{$postfix} Saya "; 
  } 
+ // Jika baris 29-31 dihapus maka akan terjadi error
+ // Karena pada class anak yang mewarisi super class harus menuliskan semua method abstrak dari super classnya.
 }
 ?>
