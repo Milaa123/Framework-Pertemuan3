@@ -1,5 +1,5 @@
 <?php
-require_once("latihan-3.php");
+require_once("latihan3-a.php");
 $mhs1=new mahasiswa();
 $mhs1->nama="hendra";
 echo $mhs1->nama;
