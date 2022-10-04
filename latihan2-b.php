@@ -1,5 +1,5 @@
 <?php
-require_once("latihan-2.php");
+require_once("latihan2-a.php");
 $mhs2=new mahasiswa("Jamilatur","G.211.21.0088");
 $mhs2->cetak();
 
